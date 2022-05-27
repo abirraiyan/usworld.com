@@ -1,0 +1,44 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,600;0,700;1,400&display=swap');
+
+*{
+    box-sizing: border-box;
+
+}
+
+body {
+    background-image: url(love.jpg);
+    background-size: cover;
+    background-position: center center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 50vh;
+    font-family: Poppins, sans-serif;
+    margin: 0;
+}
+h1{
+    font-size: 2rem;
+    margin-top: 5rem;
+    font-weight: normal;
+}
+  
+.countdown-bar{
+    display: flex;
+}
+ 
+    .big-text{
+        font-weight: bold;
+        font-size: 4rem;
+        line-height: 1;
+        margin: 0 1.5rem;
+
+}
+.abir-el {
+    text-align: center;
+}
+.abir-el{
+    font-size: 1.7rem;
+}
