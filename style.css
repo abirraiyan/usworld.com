@@ -8,7 +8,7 @@
 }
 
 body {
-    background-image: url(car.jpg);
+    background-image: url(love.jpg);
     background-size: cover;
     background-position: center center;
     display: flex;
@@ -23,7 +23,7 @@ h1{
     font-size: 2rem;
     margin-top: 1rem;
     font-weight: normal;
-    color: #fff;
+   
 }
   
 .countdown-bar{
