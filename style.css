@@ -9,7 +9,7 @@
 
 body {
     background-image: url(car.jpg);
-    background-size: flex;
+    background-size: cover;
     background-position: center center;
     display: flex;
     flex-direction: column;
