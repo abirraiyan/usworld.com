@@ -28,6 +28,7 @@ h1{
   
 .countdown-bar{
     display: flex;
+    flex-wrap: wrap;
 }
  
     .big-text{
