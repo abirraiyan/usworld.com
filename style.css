@@ -9,7 +9,8 @@
 
 body {
     background-image: url(love2.jpg);
-    background-size: cover;
+    background-size: contain;
+    background-repeat: repeat;
     background-position: center center;
     display: flex;
     flex-direction: column;
